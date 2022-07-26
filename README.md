@@ -1,8 +1,7 @@
 - 👋 Hi people, I’m Rishita!
-- 👀 I’m interested in Software Development and Games.
-- 🧠 I’m currently learning some new languages.
-- 💞️ I’m exploring new things.
-- 🐾 I'm there where no one can find me.
+- 👀 I’m currently learning some new languages and developing my software skills.
+- 💞️ Just exploring new things.
+- 🐾 Evolving with the technology.
 
 <!---
 RishitaR/RishitaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
